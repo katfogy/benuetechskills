@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chat{
+    border: 2px solid purple;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 300px;
+    right: 10px;
+    border-radius: 5px;
+}
